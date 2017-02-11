@@ -1,5 +1,5 @@
 {
-    "name": "zf-commons/zfc-base",
+    "name": "jbmchd/zf2-zfcbase",
     "description": "A set of genetic (abstract) classes which are commonly used across multiple modules.",
     "type": "library",
     "keywords": [
